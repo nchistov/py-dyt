@@ -1,5 +1,5 @@
 # Py-Dyt
-## Python parser for DYT
+## Python parser for _DyT_
 ### version 0.1.0 alpha
 
 Simple example:
