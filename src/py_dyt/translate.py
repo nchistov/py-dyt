@@ -20,7 +20,7 @@ def translate(string: str, variables: dict[str, Any]) -> str:
             if letter == '$':
                 state = State.WAITING
 
-                result += variables[variable]
+                result += str(variables[variable])
                 variable = ''
             else:
                 variable += letter
