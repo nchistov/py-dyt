@@ -2,6 +2,8 @@
 ## Python parser for _DyT_
 ### version 0.1.0 alpha
 
+> This project needs Python >= 3.10!
+
 Simple example:
 
 ```pycon

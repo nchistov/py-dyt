@@ -13,3 +13,10 @@ def test_number():
     actual = translate("Hello, $name$! It's $time$ o'clock", {'name': 'Nick', 'time': 5})
 
     assert actual == expected
+
+
+def test_canceled():
+    expected = 'I have $5'
+    actual = translate('I have \\$$money$', {'money': 5})
+
+    assert actual == expected
