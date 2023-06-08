@@ -1,6 +1,6 @@
 # Py-Dyt
 ## Python parser for _DyT_
-### version 0.1.0 alpha
+### version 0.1.0
 
 > This project needs Python >= 3.10!
 
