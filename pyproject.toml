@@ -1,0 +1,18 @@
+[project]
+name = "py_dyt"
+version = "0.1.0"
+authors = [
+  { name="Nickolay Chistov", email="nikola-chistov@mail.ru" },
+]
+description = "A python DyT parser"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://gitflic.ru/project/nchistov/py_dyt"
+"Bug Tracker" = "https://gitflic.ru/project/nchistov/py_dyt/issue"
